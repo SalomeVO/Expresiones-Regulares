@@ -33,7 +33,7 @@
                     <a class="nav-link dropdown-toggle text-dark" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                         <i class="fas fa-clipboard"></i> <b>Requisitos</b>
                     </a>
-                    <div class="dropdown-menu" aria-labelledby="navbarDropdown" style="background-color: transparent;">
+                    <div class="dropdown-menu" aria-labelledby="navbarDropdown" style="background-color: white;">
                         <a class="nav-link disabled">
                             <p>a. Coincida con tres vocales seguidas.</p>
                             <p>b. Coincida con tres vocales.</p>
@@ -47,14 +47,8 @@
             <form>
                 <ul class="navbar-nav mr-auto">
                     <li class="nav-item">
-                        <a class="nav-link text-dark" href="https://github.com/SalomeVO/CRUD-L8" >
+                        <a class="nav-link text-dark" href="https://github.com/SalomeVO/Expresiones-Regulares.git" >
                             <i class="fa-3x fab fa-github-square"></i>
-                        </a>
-                    </li>
-
-                    <li class="nav-item ">
-                        <a class="nav-link text-dark" href="https://youtu.be/w7OSE1-8F8s" >
-                            <i class="fa-3x fab fa-youtube"></i>
                         </a>
                     </li>
                 </ul>
